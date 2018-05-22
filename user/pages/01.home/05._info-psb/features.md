@@ -4,8 +4,6 @@ body_classes: header-transparent
 menu: 'Info PSB'
 ---
 
-!! Untuk informasi lengkap seperti ***Daftar Ulang, Pembayaran, dan Kelengkapan Santri.*** silahkan klik link dibawah ini <form><input type="button" value="Download" onclick="window.open('https://drive.google.com/open?id=1Xsj78K3pYlVuSKiMx1SOR3HcgsCgCU1u')"></form>
-
 # KETENTUAN DAFTAR ULANG
 ## Santri Baru SMP Al Bayan 2018
 ### Waktu Daftar Ulang
@@ -31,3 +29,5 @@ menu: 'Info PSB'
 
 NB (bagi yang belum menyerahkan)
 ! Santri harap dibawa untuk menendatangani surat pernyataan santri. 
+
+!! Untuk informasi lengkap seperti ***Daftar Ulang, Pembayaran, dan Kelengkapan Santri.*** silahkan klik link dibawah ini <form><input type="button" value="Download" onclick="window.open('https://drive.google.com/open?id=1Xsj78K3pYlVuSKiMx1SOR3HcgsCgCU1u')"></form>
