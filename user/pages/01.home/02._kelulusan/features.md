@@ -1,27 +1,7 @@
 ---
-title: 'Lulus PSB'
-published: false
-menu: 'Kelulusan (fail)'
-features:
-    -
-        icon: 'fa fa-leanpub'
-        header: 'Al Quran dan Al Hadist'
-    -
-        icon: 'fa fa-university'
-        header: 'Syari''ah'
-    -
-        icon: 'fa fa-comments-o'
-        header: 'Bahasa Arab dan Inggris'
-    -
-        icon: 'fa fa-user-o'
-        header: 'Aqidah Akhlaq'
-    -
-        icon: 'fa fa-slideshare'
-        header: 'Tarikh Islam'
-    -
-        icon: 'fa fa-graduation-cap'
-        header: 'Kurikulum Diknas'
+title: Kelulusan
 class: offset-box
+menu: Kelulusan
 ---
 
 1. MUHAMMAD ARI SYAIFULLAH	SDN 01 PONDOK BENDA
@@ -58,10 +38,3 @@ class: offset-box
 32. DENDI TEGAR PRAMONO	SDN KALIDERES 10 PAGI
 
 > Untuk selanjutnya, silahkan ikuti langkah-langkah yang tertera pada surat pemberitahuan, terima kasih 
-
-
-<!--# Mengapa Al Bayan?
-## **kurikulum khusus & guru pilihan**
-
-Bukan hanya mendidik, tapi kami berusaha untuk mencetak generasi masa depan berlandaskan iman dan taqwa serta berpedoman pada [Al-Quran](#) dan [Hadist.](#)
--->

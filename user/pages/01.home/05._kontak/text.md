@@ -1,7 +1,6 @@
 ---
 title: Kontak
 image_align: left
-menu: Kontak
 ---
 
 ### Informasi mengenai daftar ulang silahkan hubungi:
