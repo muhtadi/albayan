@@ -5,5 +5,5 @@ menu: Kontak
 ---
 
 ### Informasi mengenai daftar ulang silahkan hubungi:
-* Irfan				   	: 082260214714
+* Irfan				   	: 082260214741
 * Ust Sholihin		: 081519188148
