@@ -1,0 +1,65 @@
+---
+title: About
+menu: Highlights
+features:
+    -
+        icon: 'fa fa-leanpub'
+        header: 'Al Quran dan Al Hadist'
+    -
+        icon: 'fa fa-university'
+        header: 'Syari''ah'
+    -
+        icon: 'fa fa-comments-o'
+        header: 'Bahasa Arab dan Inggris'
+    -
+        icon: 'fa fa-user-o'
+        header: 'Aqidah Akhlaq'
+    -
+        icon: 'fa fa-slideshare'
+        header: 'Tarikh Islam'
+    -
+        icon: 'fa fa-graduation-cap'
+        header: 'Kurikulum Diknas'
+class: offset-box
+---
+
+1. MUHAMMAD ARI SYAIFULLAH	SDN 01 PONDOK BENDA
+2. MUHAMMAD DIMAS PRASETYO	SDN KEBAYORAN LAMA UTARA 13 PAGI
+3. AMRI ARYANTO	SDN KEDOYA SELATAN 01
+4. MUHAMMAD AZIZ	SDN MERUYA UTARA 04 PETANG
+5. RAHMA ALVANY	SDN DURI PULO 04 PAGI
+6. RIZKI HIDAYAT	SD BINA INSANI
+7. RIZQI BANI SALMAN NURI	SD BINA INSANI
+8. NAJWAH MURSILAH	SDIT AL-MUTTAQIN
+9. WAHYU ARIYANTO	PKBM IRPADAROJAT
+10. AZMI KHOYRUNNISA	MI AL-MUJAHIDIN JOGLO
+11. AHMAD SHODIQ TSANI	MI ASSALAFIYAH
+12. DWI INDAH MEI HARYANI	SD MUHAMMADIYAH 1 GONDRONG
+13. SYALLU AGUSTINA	SDN SEMANAN 04
+14. REVIANA PUSPITA MAHARANI	SDN SEMANAN 2 PETANG
+15. PUPUT AZKA SYAKIRA	SDN CILANDAK BARAT 08 JAK-SEL
+16. DINA HANDAYANI	SDN CILANDAK BARAT 08 PG
+17. ADINDA A'SYIFA ALIFIA	SDN CILANDAK BARAT 08 PG
+18. ARDIAN SYAHPUTRA	MI NURUL HASANAH, KALIDERES
+19. ERLANDA ALIFAH ARIFIANI	SDN SUKATANI 2 RAJEG
+20. YUNNISA RAHEL PURWITA	MI ATTAQWA
+21. SISKAWATI	MI ATTAQWA TANGERANG
+22. RISA FIRANY ANNISA	MI ATTAQWA TANGERANG
+23. FATHAN ABDURRAHMAN AL GHOZI	SDN KAMPUNG BALI 1
+24. LABIBAH MUMTAJAH	SDN KEMBANGAN UTARA 
+25. THALIA FITRIANI	SDN GROGOL UTARA 03
+26. ARDHY PRATAMA	SDIT AL MUTTAQIN
+27. LAILA ASSYIFA	SDN BINTARA 4
+28. BAGAS PUTRA ARIYANTO	MI LANTAMURI
+29. NUR RIFDAH	SDN PONDOK KACANG BARAT 03
+30. IRGHI RAHMAN	SDN CILEBUT 2
+31. MUHAMMAD NAUFAL AZH ZHOFAR	SDN GONDRONG 1
+32. DENDI TEGAR PRAMONO	SDN KALIDERES 10 PAGI
+
+> Untuk selanjutnya, silahkan ikuti langkah-langkah yang tertera pada surat pemberitahuan, terima kasih 
+
+
+# Mengapa Al Bayan?
+## **kurikulum khusus & guru pilihan**
+
+Bukan hanya mendidik, tapi kami berusaha untuk mencetak generasi masa depan berlandaskan iman dan taqwa serta berpedoman pada [Al-Quran](#) dan [Hadist.](#)
