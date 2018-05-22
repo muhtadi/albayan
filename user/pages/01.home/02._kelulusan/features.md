@@ -1,7 +1,7 @@
 ---
 title: Kelulusan
-class: offset-box
 menu: Kelulusan
+class: offset-box
 ---
 
 1. MUHAMMAD ARI SYAIFULLAH	SDN 01 PONDOK BENDA
@@ -36,5 +36,3 @@ menu: Kelulusan
 30. IRGHI RAHMAN	SDN CILEBUT 2
 31. MUHAMMAD NAUFAL AZH ZHOFAR	SDN GONDRONG 1
 32. DENDI TEGAR PRAMONO	SDN KALIDERES 10 PAGI
-
-> Untuk selanjutnya, silahkan ikuti langkah-langkah yang tertera pada surat pemberitahuan, terima kasih 
