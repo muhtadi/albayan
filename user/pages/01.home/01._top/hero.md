@@ -1,9 +1,9 @@
 ---
 title: 'Homepage Hero'
-media_order: 'santri.jpg,pendaft.jpg'
+media_order: jiu.jpg
 menu: Top
 hero_classes: 'parallax text-light title-h1h2 overlay-dark-gradient'
-hero_image: pendaft.jpg
+hero_image: jiu.jpg
 ---
 
 # Selamat Datang
